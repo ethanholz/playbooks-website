@@ -12,7 +12,7 @@ As mentioned earlier, reference documentation based on your API can be generated
 
 ### What to put in a docstring
 
-For a deeper dive into this topic, we recommend David Anderson’s excellent article: [Writing Great Docstrings in Python](https://jdkandersson.com/2023/01/07/writing-great-docstrings-in-python/).
+For a deeper dive into this topic, we recommend this related article: [Documenting Your Python Code Base Using Docstrings](https://realpython.com/documenting-python-code/#documenting-your-python-code-base-using-docstrings).
 
 #### Module docstrings
 **Required:**
